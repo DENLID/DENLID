@@ -31,11 +31,14 @@ Passionate about creating clean, efficient, and secure software from concept to 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+### **Bots**
 ![Aiogram](https://img.shields.io/badge/Aiogram-2C2D72?style=flat-square&logo=telegram&logoColor=white)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-008080?style=flat-square&logo=python&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-0088CC?style=flat-square&logo=telegram&logoColor=white)
 ![PyTelegramBotAPI](https://img.shields.io/badge/Telebot-0088CC?style=flat-square&logo=telegram&logoColor=white)
+
 
 
 ### **Databases**
