@@ -1,8 +1,8 @@
 # 👋 Hola!
 
-💻 
-I love building RESTful APIs, scalable backends, and deploying projects end-to-end.  
-I create functional and clean frontends with solid UI ⚡
+💻 Fullstack Developer | 🧠 Exploring AI & Cybersecurity
+I build automation tools, Telegram bots, and smart backend systems using Python.
+Passionate about creating clean, efficient, and secure software from concept to deployment ⚡
 
 ---
 
