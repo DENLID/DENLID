@@ -32,8 +32,10 @@ Passionate about creating clean, efficient, and secure software from concept to 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2C2D72?style=flat-square&logo=telegram)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-008080?style=flat-square&logo=python&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Telethon](https://img.shields.io/badge/Telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![PyTelegramBotAPI](https://img.shields.io/badge/Telebot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
