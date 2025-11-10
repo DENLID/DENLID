@@ -26,15 +26,17 @@ Passionate about creating clean, efficient, and secure software from concept to 
 ![Golang](https://img.shields.io/badge/golang-00ADD8?&logo=go&logoColor=white)
 
 ### **Backend**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2C2D72?style=for-the-badge&logo=telegram&logoColor=white)
-![Pyrogram](https://img.shields.io/badge/Pyrogram-008080?style=for-the-badge&logo=python&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Telethon](https://img.shields.io/badge/Telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
-![PyTelegramBotAPI](https://img.shields.io/badge/Telebot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-FF1709?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2C2D72?style=flat-square&logo=telegram&logoColor=white)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-008080?style=flat-square&logo=python&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Telethon](https://img.shields.io/badge/Telethon-0088CC?style=flat-square&logo=telegram&logoColor=white)
+![PyTelegramBotAPI](https://img.shields.io/badge/Telebot-0088CC?style=flat-square&logo=telegram&logoColor=white)
+
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
