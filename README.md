@@ -82,11 +82,6 @@ I create functional and clean frontends with solid UI ⚡
 
 ---
 
-## 🚀 Highlight Projects
-Here are some of my main projects (more in my repos):
-
----
-
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denlid&layout=compact&theme=radical)  
